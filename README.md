@@ -169,9 +169,7 @@ Explain this question in simple words.
 ```
 
 **Output:** StudyLens AI analyzes the image and provides a clear, student-friendly explanation.
-## Screenshots
 
-![StudyLens AI](screenshots/Screenshot%202026-10-03%20141841.png)
 ## Deployment
 
 The project is deployed using Streamlit Community Cloud.
